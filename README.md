@@ -1,7 +1,7 @@
 # Terraform Day 12 - DevOps Practice
 
 ## Project Overview
-This repository contains Terraform configuration for managing AWS cloud resources.
+This repository contains Terraform configuration for automating and managing AWS cloud resources.
 
 ## Tools Used
 - Git
