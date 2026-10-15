@@ -1,7 +1,7 @@
 # Terraform Day 12 - DevOps Practice
 
 ## Project Overview
-This repository contains Terraform configuration for practicing AWS infrastructure as code.
+This repository contains Terraform configuration for AWS infrastructure automation.
 
 ## Tools Used
 - Git
